@@ -1,6 +1,6 @@
 train: /usr/src/app/diss_data/annotations/train/  # 118k images
 val: /usr/src/app/diss_data/annotations/val/  # 5k images
-test: /usr/src/app/diss_data/annotations/test/  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+# test: /usr/src/app/diss_data/annotations/test/  # 20k images for submission to https://competitions.codalab.org/competitions/20794
 
 # number of classes
 nc: 3
